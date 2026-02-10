@@ -1,5 +1,3 @@
-# Rohith
-My Github Profile
 # Hi, I'm Rohith 👋
 
 Associate Analyst with experience working on **enterprise-scale AI and content engineering projects**. I focus on **accuracy, quality, and structured execution** in guideline-driven environments, and I enjoy understanding how technology systems work end to end.
